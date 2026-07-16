@@ -102,3 +102,18 @@ Python
 - Navigation analysis
 - Digital inclusivity research
 
+
+---
+
+# 🏆 Achievements
+
+⭐ Solved 200+ DSA Problems
+
+⭐ 4★ CodeChef
+
+⭐ HackerRank Python Certified
+
+⭐ HackerRank Java Certified
+
+⭐ CGPA 8.71
+
