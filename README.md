@@ -117,3 +117,14 @@ Python
 
 ⭐ CGPA 8.71
 
+---
+
+# 📫 Connect With Me
+
+📧 Email: 22x31a05a0@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/vinitha-reddy-katta-8276b3306
+
+💻 GitHub: https://github.com/kattavinithareddy
+
+🏆 LeetCode: https://leetcode.com/u/kattavinithareddy9014/
