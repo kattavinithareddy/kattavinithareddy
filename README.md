@@ -53,3 +53,52 @@ Currently, I am learning Backend Development, Generative AI, System Design, and 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Personalized Federated Learning for In-Hospital Mortality Prediction
+
+An AI-powered healthcare system that predicts ICU patient mortality while preserving patient privacy using Federated Learning.
+
+### Technologies
+
+Python
+
+Machine Learning
+
+Federated Learning
+
+Scikit-Learn
+
+### Features
+
+- Privacy-preserving learning
+- Distributed model training
+- Mortality prediction
+- Healthcare AI
+- Secure parameter sharing
+
+---
+
+## 🌍 Web Accessibility Evaluation using Latin American AI Index
+
+Research project evaluating website accessibility across countries included in the Latin American Artificial Intelligence Index.
+
+### Technologies
+
+HTML
+
+CSS
+
+JavaScript
+
+Python
+
+### Features
+
+- WCAG evaluation
+- Accessibility testing
+- Navigation analysis
+- Digital inclusivity research
+
