@@ -121,7 +121,7 @@ Python
 
 # 📫 Connect With Me
 
-📧 Email: 22x31a05a0@gmail.com
+📧 Email: kattavinithareddy2000@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/vinitha-reddy-katta-8276b3306
 
